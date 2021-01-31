@@ -1,0 +1,40 @@
+.bookimg{
+    width: 200px; 
+    height: 250px;;
+}
+
+article{
+    display: flex;
+    
+}
+.comment-field{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+
+.reply-form{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+section{
+    display: flex;
+}
+.comment-input{
+    width: 200px;
+    
+   
+}
+.echo-comment{
+    
+    margin-left:20px; 
+    border-bottom : 1px solid black;
+    
+}
+
+
+
+
+

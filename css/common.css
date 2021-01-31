@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    border-bottom: 1px solid black;
+    justify-content: space-between;
+}
+
+.header-title{
+   margin-left: 30px;
+}
+
+
+.tool{
+    margin-right: 15px;
+    font-size: 20px;
+}
+
+
+.cart{
+    width: 33px;
+    height: 33px;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.logout{
+
+    margin-right: 30px;
+}
+

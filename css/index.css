@@ -1,0 +1,78 @@
+.index{
+     width: 1000px;
+    
+    
+}
+
+
+.select-book{
+    height: 100px;
+}
+
+.book_lists{
+    /*width: 900px;*/
+    /*flex-wrap: wrap;*/
+    display: flex;
+    align-content: space-between;
+    width: 32%;
+    position: relative;
+    height: 500px;
+    
+}
+
+
+.bookimg{
+    width :200px; 
+    height: 250px;
+}
+
+
+
+
+
+
+.comment-form{
+    height: 30px;
+    margin: 10px 0;
+}
+
+.book_items{
+    width: 200px;
+    height: 400px;
+    margin: 0 20px;
+}
+
+.paginate{
+    display:flex;
+    width: 1000px;
+  }
+  .paginate_lists{
+    display: flex;
+    list-style: none;
+    margin: 0 auto;
+  }
+  .echo-page{
+    margin-right: 15px;
+    margin-bottom: 10px;
+  }
+  .page-link{
+    color: black;
+    font-size: 20px;
+  }
+
+
+
+
+
+
+
+
+
+  
+
+
+   
+
+
+
+

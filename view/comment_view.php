@@ -24,7 +24,7 @@
                      <img class="bookimg" src="<?php echo h($img_dir.$books[0]['img']); ?>">
                    </p>
                    <p>タイトル：<?php echo h($books[0]['book_name']);?></p>
-                   <p>著者：<?php echo $books[0]['author']?></p>
+                   <p>著者：<?php echo h($books[0]['author'])?></p>
                    <p>値段：<?php echo '¥'.h($books[0]['price']);?></p>
                    <p>本のジャンル：<?php echo h($book_type)?></p>
                    <p>本の状態：<?php echo h($book_status)?></p>
